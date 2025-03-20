@@ -10,6 +10,7 @@
 | RF03  | Comando /freegames  |  Retorna lista de jogos gratuitos ou em promoção consumindo uma API.|
 | RF04  | Interação com IA   |   O bot irá ser integrado com a IA (nome a definir). |
 | RF05 |  Disponibilidade de Site  | O bot terá um site para ser convidado e configurado ao servidor.   |
+| RF06 | Comando /tutorial   |  Retorna um tutorial de como utilizar o RPG do bot.   |
 
 
 
